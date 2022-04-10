@@ -57,7 +57,7 @@ company.
 
 ## Corporate Partnership Manager
 
-**Bio**: William Samba is 35 years ols manager in Google Belgium. He is
+**Bio**: William Samba is 35 years old manager in Google Belgium. He is
 responsible for developing mutually beneficial relationship between a nonprofit
 or charitable organization and Google company with a purpose to pursue a common
 goal based on the shared values of participating organizations.
@@ -68,7 +68,7 @@ the organizations that meet all Google Partnership requirements in order to
 support them with donations and establish partnership for future.
 
 **Frustrations**: William is frustrated that many non-profit organizations in
-Belgium is hard to get in contact with and little information is available on
+Belgium are hard to get in contact with and little information is available on
 its websites.
 
 **Scenario**:In order to meet right organization for the partnership he needs to
