@@ -33,21 +33,22 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day         |   Monday   |  Tuesday   | Wednesday |  Thursday  |   Friday   |  Saturday  |   Sunday   |
-| ----------- | :--------: | :--------: | :-------: | :--------: | :--------: | :--------: | :--------: |
-| _Andri_     |            |            |           |            |            |            |
-| _Fenny_     | 6pm - 10pm | 6pm - 10pm | 9am - 9pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
-| _Josee_     |            |            |           |            |            |            |
-| _Maria_     |            |            |           |            |            |            |
-| _Zerubabel_ |            |            |           |            |            |            |
-| _Zeynep_    |            |            |           |            |            |            |
+| Day         |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |   Sunday   |
+| ----------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
+| _Andri_     |            |            |            |            |            |            |
+| _Fenny_     | 6pm - 10pm | 6pm - 10pm | 9am - 9pm  | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
+| _Josee_     |            |            |            |            |            |            |
+| _Maria_     | 6pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |
+| _Zerubabel_ |            |            |            |            |            |            |
+| _Zeynep_    |            |            |            |            |            |            |
 
 ### How many hours everyone has per day
 
 - Andri: _h_;
 - Fenny: _3h_; I'll have more time available on Wednesday
 - Josee: _h_;
-- Maria: _h_;
+- Maria: 4h\_; My schedule might change this week since I am on holiday with my
+  daughter but I will keep you updated.
 - Zerubabel: _h_;
 - Zeynep: _h_;
 
