@@ -37,7 +37,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 | ----------- | :--------: | :-------------: | :-------------: | :--------: | :--------: | :--------: | :--------: |
 | _Andri_     |            |                 |                 |            |            |            |            |
 | _Fenny_     | 6pm - 10pm |   6pm - 10pm    |    9am - 9pm    | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
-| _Josee_     |            |                 |                 |            |            |            |            |
+| _Josee_     |  1pm - 8pm  | 11 am - 8pm |  5pm - 10pm   | 11 am - 8pm  |  11 am - 8pm |  11 am - 8pm  |        |
 | _Maria_     | 6pm - 11pm |   4pm - 11pm    |   4pm - 11pm    | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |            |
 | _Zerubabel_ |  11 - 15   | 11 - 15 20 - 00 | 11 - 15 21 - 00 |  11 - 17   |  11 - 18   |            |            |
 | _Zeynep_    | 5pm - 11pm |   5pm - 11pm    |   5pm - 11pm    | 5pm - 11pm | 5pm - 11pm | 5pm - 11pm |            |
