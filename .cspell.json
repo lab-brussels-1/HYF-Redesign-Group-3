@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": ["Andri", "Josee", "Zerubabel", "Zeynep"],
+  "words": ["Andri", "Excalidraw", "Josee", "Zerubabel", "Zeynep"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
