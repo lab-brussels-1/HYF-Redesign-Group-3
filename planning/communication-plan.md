@@ -33,14 +33,14 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day         |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |   Sunday   |
-| ----------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| _Andri_     |            |            |            |            |            |            |
-| _Fenny_     | 6pm - 10pm | 6pm - 10pm | 9am - 9pm  | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
-| _Josee_     |            |            |            |            |            |            |
-| _Maria_     | 6pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |
-| _Zerubabel_ |  11 - 15  |  11 - 15 20 - 00  | 11 - 15 21 - 00   |   11 - 17  | 11 - 18 | - |
-| _Zeynep_    |            |            |            |            |            |            |
+| Day         |   Monday   |     Tuesday     |    Wednesday    |  Thursday  |   Friday   |  Saturday  |   Sunday   |
+| ----------- | :--------: | :-------------: | :-------------: | :--------: | :--------: | :--------: | :--------: |
+| _Andri_     |            |                 |                 |            |            |            |
+| _Fenny_     | 6pm - 10pm |   6pm - 10pm    |    9am - 9pm    | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
+| _Josee_     |            |                 |                 |            |            |            |
+| _Maria_     | 6pm - 11pm |   4pm - 11pm    |   4pm - 11pm    | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |
+| _Zerubabel_ |  11 - 15   | 11 - 15 20 - 00 | 11 - 15 21 - 00 |  11 - 17   |  11 - 18   |            |
+| _Zeynep_    |            |                 |                 |            |            |            |
 
 ### How many hours everyone has per day
 
