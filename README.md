@@ -26,7 +26,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](planning/assets/screenshot.jpg)
 
 ## Technologies
 
@@ -49,7 +49,7 @@ console.log("Hello World");
 
 ## Features
 
-List of features ready and Todos for future development
+List of features ready and To do's for future development
 
 -
 -
