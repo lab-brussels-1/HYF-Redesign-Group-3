@@ -35,12 +35,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day         |   Monday   |  Tuesday   | Wednesday  |  Thursday  |   Friday   |  Saturday  |   Sunday   |
 | ----------- | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: | :--------: |
-| _Andri_     |            |            |            |            |            |            |
+| _Andri_     |            |            |            |            |            |            |            |
 | _Fenny_     | 6pm - 10pm | 6pm - 10pm | 9am - 9pm  | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm | 6pm - 10pm |
-| _Josee_     |            |            |            |            |            |            |
-| _Maria_     | 6pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |
-| _Zerubabel_ |            |            |            |            |            |            |
-| _Zeynep_    |            |            |            |            |            |            |
+| _Josee_     |            |            |            |            |            |            |            |
+| _Maria_     | 6pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm | 4pm - 11pm |            |
+| _Zerubabel_ |            |            |            |            |            |            |            |
+| _Zeynep_    | 5pm - 11pm | 5pm - 11pm | 5pm - 11pm | 5pm - 11pm | 5pm - 11pm | 5pm - 11pm |            |
 
 ### How many hours everyone has per day
 
@@ -50,7 +50,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Maria: _4h_; My schedule might change this week since I am on holiday with my
   daughter but I will keep you updated.
 - Zerubabel: _h_;
-- Zeynep: _h_;
+- Zeynep: _4-5h_; 
 
 ## Asking for Help
 
