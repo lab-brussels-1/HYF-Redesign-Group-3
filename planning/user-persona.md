@@ -74,3 +74,18 @@ its websites.
 **Scenario**:In order to meet right organization for the partnership he needs to
 evaluate how active the organization in tech sector, find statistics about its
 graduates and be sure that the HQ is located in Belgium.
+
+## Collage student
+
+**Bio**: Simon Anderson is 25 years old, he just moved to belgium and his
+studying business and management, but he's interested in coding and he knows the
+basics, He wanna grow his knowledge.
+
+**Needs/Goals**: He is trying to study a full stack web development so he can
+work on the thing that his interested on.
+
+**Frustrations**: Simon is Frustrated b/C he don't have a job b/c he can't speak
+French or dutch and at the same time his trying to learn web development.
+
+**Scenario**: Simone is trying to know if the course is fully free and what kind
+of course they are giving and most importantly if the course is in english.
