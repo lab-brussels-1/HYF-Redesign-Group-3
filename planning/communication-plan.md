@@ -50,7 +50,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 - Maria: _4h_; My schedule might change this week since I am on holiday with my
   daughter but I will keep you updated.
 - Zerubabel: _h_;
-- Zeynep: _4-5h_; 
+- Zeynep: _4-5h_;
 
 ## Asking for Help
 
