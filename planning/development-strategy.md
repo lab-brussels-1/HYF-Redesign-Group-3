@@ -85,7 +85,7 @@ managed to find a job after they graduated.
 As a potential student, I would like to see the curriculum/syllabus/module that
 they offer in the program.
 
-- [] There should be a clear guide that describes where they can have a glance
+- [ ] There should be a clear guide that describes where they can have a glance
   at the material taught during the study program.
 
 ### Curriculum: HTML
