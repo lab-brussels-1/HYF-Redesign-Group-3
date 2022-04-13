@@ -1,13 +1,13 @@
-# HackYourFuture Redesign :HYF:
+# HackYourFuture Redesign
 
-> HackYourFuture is a free 9-month web development program who helping new
+> HackYourFuture :HYF: is a free 9-month web development program who helping new
 > talent into the tech world.:computerrage:  
 > This project consists of creating a better HYF home page than
 > [existing one.](https://hackyourfuture.be/)
 
 ## Table of contents
 
-- [HackYourFuture Redesign :HYF:](#hackyourfuture-redesign-hyf)
+- [HackYourFuture Redesign](#hackyourfuture-redesign)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
