@@ -44,7 +44,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- Andri: _h_;
+- Andri: _3h_;
 - Fenny: _3h_; I'll have more time available on Wednesday
 - Josee: _6h_; I will follow your schedule and adapt.
 - Maria: _4h_; My schedule might change this week since I am on holiday with my
