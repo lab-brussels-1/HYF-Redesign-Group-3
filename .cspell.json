@@ -1,7 +1,18 @@
 {
   "language": "en",
-  "words": ["Andri", "Josee", "wireframe", "Zerubabel", "Zeynep"],
-  "words": ["Andri", "Excalidraw", "Josee", "Zerubabel", "Zeynep"],
+  "words": [
+    "Andri",
+    "Andrii",
+    "Excalidraw",
+    "Josee",
+    "referrerpolicy",
+    "socio",
+    "wireframe",
+    "Wireframe",
+    "X",
+    "Zerubabel",
+    "Zeynep"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
