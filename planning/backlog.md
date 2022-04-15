@@ -5,9 +5,16 @@
 > A must-have compilation set for the homepage that are necessary for basic
 > utility.
 
-### As a user, I would like to see the organization's logo
+### As a user
 
-- [ ] _there is a prominent title at the top of the web page_
+- I would like to see the organization's logo
+
+  - [ ] _there is a prominent title at the top of the web page_
+
+- I would like to easily accessing the page/information of the organization.
+
+  - [ ] _there's should be a navbar to aid visitors in navigate the page in the
+        website._
 
 ### As a potential student
 
