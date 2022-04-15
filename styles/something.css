@@ -1,9 +1,7 @@
 body {
   background-color: white;
 }
-body {
-  background-color: white;
-}
+
 .btn-primary {
   background-color: rgb(74, 80, 187) !important;
   font-size: 12px !important;
@@ -29,6 +27,7 @@ a:hover {
   text-decoration: none !important;
   border-bottom: 3px solid rgb(74, 80, 187) !important;
 }
+
 .hero-image {
   background-image: url("/public/Screenshot\ 2022-04-14\ at\ 23.00.20.png");
   height: 400px !important;
