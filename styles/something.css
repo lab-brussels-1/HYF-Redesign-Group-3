@@ -77,7 +77,6 @@ a:hover {
   -webkit-box-pack: center;
   justify-content: center;
   width: 100%;
-  padding: 0px;
   position: relative;
   box-shadow: none;
   background: none;
@@ -94,8 +93,6 @@ a:hover {
   align-items: center;
   width: 100%;
   max-width: 1280px;
-  padding: 10px 0px;
-  margin: 0px auto;
 }
 
 .box3 {
@@ -103,7 +100,6 @@ a:hover {
   flex-direction: column;
   -webkit-box-align: center;
   align-items: center;
-  box-shadow: rgb(0 0 0 / 8%) 0px 0px 53px;
   padding: 50px;
   margin-bottom: 50px;
 }
@@ -114,7 +110,6 @@ a:hover {
   -webkit-box-align: center;
   align-items: center;
   width: 100%;
-  margin: 0px 0px 50px;
 }
 
 .our {
@@ -136,7 +131,6 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
   word-break: break-word;
   font-weight: 300;
 }
