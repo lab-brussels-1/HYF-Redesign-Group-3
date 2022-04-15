@@ -8,14 +8,14 @@
 
 ## Communication Schedule
 
-| Day       | How  | The topic of discussion                  |
-| --------- | :--: | ---------------------------------------- |
-| Monday    | Zoom | Discuss what can be improved in planning |
-| Tuesday   |      |                                          |
-| Wednesday |      |                                          |
-| Thursday  |      |                                          |
-| Friday    |      |                                          |
-| Saturday  |      |                                          |
+| Day       | How  | The topic of discussion                                                                                               |
+| --------- | :--: | --------------------------------------------------------------------------------------------------------------------- |
+| Monday    | Zoom | Discuss what can be improved in planning.                                                                             |
+| Tuesday   |      |                                                                                                                       |
+| Wednesday |      | Discuss the approved design draft and divide the tasks.                                                               |
+| Thursday  |      |                                                                                                                       |
+| Friday    |      | Discuss the progress of the project according to the planning, any issues we face, roadblocked, or where we stuck at. |
+| Saturday  |      | Discuss the planning update.                                                                                          |
 
 <!-- ## Communication Channels
 
