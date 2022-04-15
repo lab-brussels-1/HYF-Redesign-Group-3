@@ -1,3 +1,5 @@
+/* Nav and logo style */
+
 body {
   background-color: white;
 }
@@ -51,4 +53,20 @@ a:hover {
   font-weight: 700 !important;
   color: white !important;
   max-width: none !important;
+}
+
+/* Program Style */
+
+.text-color {
+  color: rgb(74, 80, 187);
+}
+
+.header-style {
+  color: rgb(74, 80, 187);
+  font-family: "Work Sans", sans-serif;
+  font-weight: 700;
+}
+
+.p-style {
+  font-family: "Space Mono", monospace;
 }
