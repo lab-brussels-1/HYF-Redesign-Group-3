@@ -1,9 +1,11 @@
 # HackYourFuture Redesign
 
 > HackYourFuture :HYF: is a free 9-month web development program who helping new
-> talent into the tech world.:computerrage:  
-> This project consists of creating a better HYF home page than
-> [existing one.](https://hackyourfuture.be/)
+> talent into the tech world :computerrage:
+>
+> This project consists of redesign the current
+> [Hack Your Future](https://hackyourfuture.be/) website to meet the need of
+> users based on the team consideration and observation.
 
 ## Table of contents
 
@@ -22,11 +24,11 @@
 ## General info
 
 > In this project our first priority is to build our own home page for
-> HackYourFuture Belgium by using BEM/Bootstrap 5 ans and making design
+> HackYourFuture Belgium using latest version of Bootstrap and making the design
 > responsive.
 >
-> Our seconde priority is to work on other pages of the site in order to create
-> a full-fledged website that meets all the needs of its users.
+> Our second priority is to work on other pages of the site in order to create a
+> full-fledged website that meets all the needs of its users.
 
 ## Screenshots
 
