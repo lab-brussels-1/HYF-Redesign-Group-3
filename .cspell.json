@@ -1,17 +1,27 @@
 {
   "language": "en",
-  "words": ["Andri", "Josee", "wireframe", "Zerubabel", "Zeynep"],
   "words": [
     "Andri",
+    "Andrii",
+    "andriivam",
+    "codesample",
+    "computerrage",
+    "DIGITALENTS",
+    "Epitech",
     "Excalidraw",
+    "hackyourfuture",
     "Josee",
-    "Zerubabel",
-    "Zeynep",
+    "kiishiakande",
+    "Mikhailova",
+    "referrerpolicy",
+    "socio",
+    "Ufitamahoro",
+    "Wilriani",
     "wireframe",
     "Wireframe",
     "X",
-    "Andrii",
-    "socio"
+    "Zerubabel",
+    "Zeynep"
   ],
   "ignorePaths": [
     "node_modules/**",
