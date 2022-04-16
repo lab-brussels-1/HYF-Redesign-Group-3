@@ -4,10 +4,13 @@
 <!-- describe the reasoning behind your group's design and wireframe -->
 <!-- include other centralized decisions like fonts, palates, ... -->
 
+- In this project we redesign Hack Your Future website.
+- Placing the must-have on homepage
+
 ---
 
-## Wireframe(s)
+## Wireframe for the Home page
 
 <!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
 
-[link to wireframe]
+![wireframe](./assets/design.png)
