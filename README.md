@@ -30,15 +30,15 @@
 
 ## Screenshots
 
-![Example screenshot](planning/assets/screenshot.jpg)
+![Example screenshot](./planning/assets/bg-img.png)
 
 ## Technologies
 
-- Node 14.16.0
-- VSC code
+- Bootstrap
+- CSS
+- Excalidraw
 - HTML
-- ...
-- ...
+- VSCode
 
 ## Setup
 
@@ -46,25 +46,23 @@
 
 ## Code Examples
 
+![sample](./planning/assets/codesample.png)
+
 ## Features
 
 List of features ready and To do's for future development
 
--
--
--
-
 To-do list:
 
-- Logo
-- Navbar
-- Intro
-- Impact
-- Core values
-- Success stories
-- Main users
-- Partners
-- Footer with contacts
+- [x] Logo
+- [x] Navbar
+- [x] Intro
+- [x] Impact
+- [ ] Mission & Vision
+- [ ] Success stories
+- [x] Support us
+- [ ] Partners
+- [ ] Footer with contacts
 
 ## Status
 
