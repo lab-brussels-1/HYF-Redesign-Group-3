@@ -278,21 +278,20 @@ a:hover {
   height: 100%;
   min-height: 400px;
   padding-right: 0;
-
   background-color: transparent;
 }
+
 /* CONTACT SECTION: */
 .contact-us {
   display: flex;
   flex-direction: column;
   width: 40%;
-
   height: 100%;
   padding: 50px 100px;
-
   background-color: rgb(74, 80, 187);
   color: aliceblue;
 }
+
 .contact-us h1 {
   font-family: "Work Sans", sans-serif;
   font-size: 24px;
@@ -312,7 +311,7 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px 0px 20px;
+  margin: 0 0 20;
   white-space: initial;
   word-break: break-word;
   font-weight: 300;
@@ -332,7 +331,7 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 20px 0px 5px;
+  margin: 20 0 5;
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
@@ -341,7 +340,7 @@ a:hover {
 .contact-form .text {
   border: 1px solid white;
   border-radius: 3px;
-  outline: currentcolor none medium;
+  outline: currentColor none medium;
   background-color: transparent;
   padding: 10px 5px;
   color: white;
@@ -351,7 +350,7 @@ a:hover {
 .contact-form textarea {
   border: 1px solid white;
   border-radius: 3px;
-  outline: currentcolor none medium;
+  outline: currentColor none medium;
   padding: 10px 5px;
   color: white;
   background-color: transparent;
@@ -371,7 +370,7 @@ a:hover {
   min-height: 400px;
   margin-right: 0%;
   padding-left: 60px;
-  padding-right: 0px;
+  padding-right: 0;
   background-color: transparent;
 }
 
@@ -383,7 +382,7 @@ a:hover {
   width: 100%;
   padding: 50px 20px;
   position: relative;
-  box-shadow: rgba(0, 0, 0, 0.08) 0px 0px 53px;
+  box-shadow: rgba(0, 0, 0, 0.08) 0 0 53px;
   background: rgba(0, 0, 0, 0) none repeat scroll 0% 0%;
   z-index: 1;
   flex: 0 0 auto;
@@ -402,10 +401,10 @@ a:hover {
   height: auto;
   -moz-box-pack: start;
   justify-content: flex-start;
-  margin: 0px;
+  margin: 0;
   max-height: none;
   max-width: none;
-  padding: 0px;
+  padding: 0;
   width: 100%;
   z-index: 0;
   position: static;
@@ -430,7 +429,7 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
+  margin: 0;
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
@@ -443,7 +442,7 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px;
+  margin: 0;
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
@@ -462,10 +461,10 @@ a:hover {
   height: auto;
   -moz-box-pack: center;
   justify-content: center;
-  margin: 20px 0px;
+  margin: 20px 0;
   max-height: none;
   max-width: none;
-  padding: 0px;
+  padding: 0;
   width: 100%;
   z-index: 0;
   position: static;
@@ -478,7 +477,7 @@ a:hover {
   line-height: 160%;
   font-size: 16px;
   font-family: "Space Mono", monospace;
-  margin: 0px 10px;
+  margin: 0 10px;
   white-space: pre-wrap;
   word-break: break-word;
   font-weight: 300;
@@ -488,5 +487,5 @@ a:hover {
   width: auto;
   height: 26px;
   object-fit: fill;
-  border-radius: 0px;
+  border-radius: 0;
 }
