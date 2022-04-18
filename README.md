@@ -32,7 +32,7 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/assets/sample-code.png)
+![Example screenshot](./planning/assets/bg-img.png)
 
 ## Technologies
 
@@ -48,7 +48,7 @@
 
 ## Code Examples
 
-![sample](./planning/assets/codesample.png)
+![sample](./planning/assets/sample-code.png)
 
 ## Features
 
