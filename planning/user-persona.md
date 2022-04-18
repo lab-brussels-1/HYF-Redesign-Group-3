@@ -75,7 +75,7 @@ its websites.
 evaluate how active the organization in tech sector, find statistics about its
 graduates and be sure that the HQ is located in Belgium.
 
-## Collage student
+## College student
 
 **Bio**: Simon Anderson is 25 years old, he just moved to belgium and his
 studying business and management, but he's interested in coding and he knows the

@@ -32,11 +32,11 @@
 
 ## Screenshots
 
-![Example screenshot](./planning/assets/bg-img.png)
+![Example screenshot](./planning/assets/sample-code.png)
 
 ## Technologies
 
-- Bootstrap
+- Bootstrap v5.0
 - CSS
 - Excalidraw
 - HTML
@@ -64,7 +64,7 @@ To-do list:
 - [ ] Success stories
 - [x] Support us
 - [ ] Partners
-- [ ] Footer with contacts
+- [x] Footer with contacts
 
 ## Status
 
@@ -78,7 +78,7 @@ Project by <https://hackyourfuture.be>
 
 - [FennyWilriani](https://github.com/FennyWilriani)
 - [MMikhailova](https://github.com/MMikhailova)
-- [kiishiakande](https://github.com/kiishiakande)
+- [Zeynep](https://github.com/Melati5)
 - [Ufitamahoro](https://github.com/Ufitamahoro)
 - [andriivam](https://github.com/andriivam)
 - [zerubabel4](https://github.com/zerubabel4)

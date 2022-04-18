@@ -52,8 +52,8 @@
 
   - [ ] _there is a main text which describes brief information about the
         program offered_
-  - [ ] _there is a button under the information narrative that links to the
-        curriculum page._
+  - [ ] _there is a button under the information that links to the curriculum
+        page._
 
 - I would like to know more information about the organization, and be able to
   contact the person in the organization should I need the details about the
@@ -96,13 +96,13 @@
 
 **_As a potential partner/volunteer_**
 
+- I want to know the people who runs the organization.
+  - [ ] _there's about us info including team members profile._
 - I want to know the requirements and how to apply as a volunteer
   - [ ] _there's an info page for the coach/mentor volunteering for the
         program._
 - I want to know if HYF organizes any events
   - [ ] _there's a calendar events._
-- I want to know if HYF is only established in Belgium or Brussels regional only
-  - [ ] _there's general info regarding the HYF internationally._
 
 ## Could-Haves
 
@@ -113,8 +113,6 @@
   - [ ] _there are some silly animations._
 - Blog that gives info, news, or fact about the tech industry
   - [ ] _there are articles which related to tech industry._
-- Would like to know HYF team member.
-  - [ ] _there are short bio from the main team member of HYF._
 
 ---
 
