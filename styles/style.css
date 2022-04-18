@@ -20,7 +20,7 @@
 
 .card-img {
   opacity: 76%;
-  height: 400px;
+  object-fit: fill;
 }
 
 .nav-item {
