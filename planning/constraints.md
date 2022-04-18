@@ -18,6 +18,8 @@ project success
 
 ### Technologies
 
+:ballot_box_with_check: Bootstrap v5.0
+
 :ballot_box_with_check: CSS
 
 :ballot_box_with_check: Excalidraw
