@@ -1,4 +1,4 @@
-/* Nav and logo style */
+/* Nav, logo and slogan style */
 .btn-primary {
   background-color: rgb(74, 80, 187) !important;
   font-size: 12px;
@@ -18,9 +18,36 @@
   width: 50px;
 }
 
-.card-img {
-  opacity: 76%;
-  object-fit: fill;
+.img-container {
+  height: 400px;
+  position: relative;
+}
+
+.bg-image {
+  background-image: url(./public/Screenshot\ 2022-04-14\ at\ 23.00.20.png);
+  filter: blur(4px);
+  -webkit-filter: blur(4px);
+  height: 100%;
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-text {
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.4);
+  color: white;
+  font-weight: bold;
+  border: 3px solid #f1f1f1;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 80%;
+  padding: 20px;
+  text-align: center;
 }
 
 .nav-item {
