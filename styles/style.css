@@ -24,7 +24,7 @@
 }
 
 .bg-image {
-  background-image: url(/public/Screenshot\ 2022-04-14\ at\ 23.00.20.png);
+  background-image: url(public/Screenshot\ 2022-04-14\ at\ 23.00.20.png);
   filter: blur(4px);
   -webkit-filter: blur(4px);
   height: 100%;
