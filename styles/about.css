@@ -86,7 +86,7 @@
 }
 
 .card {
-  width: 125px;
+  width: 175px;
   display: flex;
   flex-direction: column;
   -webkit-box-pack: center;
@@ -95,7 +95,7 @@
   -webkit-box-align: center;
   align-items: center;
   box-shadow: rgb(0 0 0 / 10%) 5px 4px 8px 5px;
-  padding: 10px 40px;
+  padding: 20px 40px;
   border-radius: 10px;
   background-color: #ccc;
 }
@@ -112,6 +112,7 @@
   width: 180px;
   object-fit: cover;
   border-radius: 100%;
+  padding: 10px 5px;
 }
 
 .card h2 {
@@ -124,14 +125,11 @@
   text-align: center;
   color: rgb(28, 34, 148);
   font-family: "Work Sans", sans-serif;
-  padding-bottom: 5px;
 }
 
 .card a {
-  padding: 5px 5px;
-  margin-top: 5px;
-  margin-bottom: 5;
   justify-content: center;
+  margin: 0 5px;
 }
 
 /* .social {
