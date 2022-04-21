@@ -24,7 +24,7 @@
 }
 
 .bg-image {
-  background-image: url("../public/team-img.png");
+  background-image: url("../assets/team-img.png");
   filter: blur(4px);
   -webkit-filter: blur(4px);
   height: 100%;
