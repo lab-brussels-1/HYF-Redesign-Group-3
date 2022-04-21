@@ -1,9 +1,14 @@
-*,
 *::before,
 *::after {
   margin: 0;
   padding: 0;
   box-sizing: inherit;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 html {
@@ -60,7 +65,7 @@ img.nav-logo {
   text-decoration: none;
 }
 
-.navbar a:hover {
+.nav-list a:hover {
   cursor: pointer;
   text-decoration: none;
   border-bottom: 3px solid rgb(74, 80, 187);
@@ -395,8 +400,15 @@ section {
 }
 
 .icons .icon-a .icon-img {
-  width: auto;
   height: 26px;
   object-fit: fill;
   border-radius: 0;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 12px;
+  width: 100%;
+  min-height: 85px;
+  padding: 15px 15px;
 }
