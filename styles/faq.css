@@ -309,6 +309,7 @@ section {
   -moz-box-pack: center;
   justify-content: center;
   width: 100%;
+  max-height: fit-content;
   padding: 50px 20px;
   position: relative;
   box-shadow: rgba(0, 0, 0, 0.08) 0 0 53px;
