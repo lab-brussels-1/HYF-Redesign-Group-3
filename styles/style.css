@@ -475,6 +475,28 @@ h2 {
   background-color: transparent;
 }
 
+/* SUCCESS STORIES */
+.carte {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+/* Clear floats after the columns */
+.sous-carte {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width: 600px) {
+  .sous-carte {
+    width: 100%;
+    display: block;
+    margin-bottom: 20px;
+  }
+}
+
 /* FOOTER LAST SECTION,LOGOS */
 .footer2 {
   display: flex;
