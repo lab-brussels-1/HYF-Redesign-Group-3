@@ -3,7 +3,6 @@
 .footer1 {
   display: flex; /* flex-box */
   margin-top: 100px;
-
   padding-right: 0;
   background-color: transparent;
 }
@@ -13,7 +12,6 @@
   display: flex;
   flex-direction: column;
   width: 40%;
-
   padding: 50px 100px;
   background-color: rgb(74, 80, 187);
   color: aliceblue;
@@ -93,7 +91,6 @@
 #map {
   display: flex;
   width: 70%;
-
   margin-right: 0%;
   padding-left: 60px;
   padding-right: 0;
@@ -221,15 +218,18 @@
   .footer1 {
     flex-direction: column;
   }
+
   .contact-us {
     width: 100%;
     padding: 10%;
   }
+
   /* MAP SECTION */
   #map {
     width: 100%;
     padding-left: 0;
   }
+
   .map iframe {
     width: 100%;
   }
@@ -240,15 +240,18 @@
   .footer1 {
     flex-direction: column;
   }
+
   .contact-us {
     width: 100%;
     padding: 10%;
   }
+
   /* MAP SECTION */
   #map {
     width: 100%;
     padding-left: 0;
   }
+
   .map iframe {
     width: 100%;
   }
@@ -259,6 +262,7 @@
   .footer1 {
     flex-direction: row;
   }
+
   .contact-us {
     width: 40%;
     padding: 8%;
@@ -272,6 +276,7 @@
     padding-left: 0;
     height: auto;
   }
+
   .map iframe {
     width: 100%;
     height: auto;
