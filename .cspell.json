@@ -40,7 +40,11 @@
     "Apllicants",
     "organised",
     "Botanique",
-    "bootcamp"
+    "bootcamp",
+    "fname",
+    "marginheight",
+    "marginwidth",
+    "nomodule"
   ],
   "ignorePaths": [
     "node_modules/**",
