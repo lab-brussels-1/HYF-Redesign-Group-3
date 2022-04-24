@@ -97,6 +97,10 @@
   background-color: transparent;
 }
 
+.map iframe {
+  border: 1px transparent black;
+}
+
 /* FOOTER LAST SECTION,LOGOS */
 .footer2 {
   display: flex;
